@@ -9,7 +9,7 @@ namespace ConsumindoApiJwtToken
     {
         static async System.Threading.Tasks.Task Main(string[] args)
         {
-
+            //Requisição
             using (var http = new HttpClient())
             {
                 var response = await http.PostAsync("https://localhost:44356/api/auth/token",null);
