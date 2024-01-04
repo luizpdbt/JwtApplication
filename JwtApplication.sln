@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30011.22
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jwt", "jwt\jwt.csproj", "{E72A5D41-3D89-4CF2-8E86-AE1FD86A90A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudJwt", "jwt\CrudJwt.csproj", "{E72A5D41-3D89-4CF2-8E86-AE1FD86A90A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumindoApiJwtToken", "ConsumindoApiJwtToken\ConsumindoApiJwtToken.csproj", "{2B766D47-25C4-495B-9DE1-39E4C693B018}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumindoApiJwtToken", "ConsumindoApiJwtToken\ConsumindoApiJwtToken.csproj", "{2B766D47-25C4-495B-9DE1-39E4C693B018}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
